@@ -253,7 +253,7 @@ export default function App() {
   return (
     <View style={estilos.tela}>
       <Text style={estilos.logo}>
-        Agenda<Text style={{ color: '#FFD600' }}>+</Text>
+        CALENDARIO i<Text style={{ color: '#FFD600' }}>+</Text>
       </Text>
       <Text style={estilos.subtitulo}>SEU TEMPO, ORGANIZADO</Text>
 
