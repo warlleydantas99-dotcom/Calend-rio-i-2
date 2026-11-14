@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "grumpy-red-popsicle",
-    "slug": "snack-beb5a491-e171-4f03-8d1e-04dba7f11476",
+    "name": "Calendario i",
+    "slug": "Calendario i",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,7 +15,8 @@
     "ios": {
       "supportsTablet": true
     },
-    "android": {
+    "android": { 
+      "package": "com.walef.calendarioi",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
